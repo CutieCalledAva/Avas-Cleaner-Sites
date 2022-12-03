@@ -5,7 +5,7 @@ I'll add more rules as I come across annoyances, so don't expect any kind of con
 
 Websites Altered So Far:
 
-- [Reddit](https://www.reddit.com/)
+- [ Reddit](https://www.reddit.com/)
 - [Github](https://www.github.com/)
 - [Youtube](https://www.youtube.com/)
 - [Pastebin](https://www.pastebin.com/)
