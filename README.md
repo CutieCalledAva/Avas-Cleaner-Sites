@@ -15,3 +15,4 @@ Websites Altered So Far:
 [Gitlab](https://gitlab.com/)
 [Brave Search](https://search.brave.com/)
 [IPA Chart](https://ipachart.com/)
+
