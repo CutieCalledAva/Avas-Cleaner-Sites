@@ -1,4 +1,4 @@
-# Ava-Cleaner-Sites
+# Avas-Cleaner-Sites
 
 Blocks Various Annoying/Redundant/Ugly Elements on Websites, making them cleaner.
 I'll add more rules as I come across annoyances, so don't expect any kind of consistent updates.
