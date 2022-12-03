@@ -14,4 +14,4 @@ Websites Altered So Far:
 [Instagram](https://www.instagram.com/)  
 [Gitlab](https://gitlab.com/)  
 [Brave Search](https://search.brave.com/)  
-[IPA Chart](https://ipachart.com/)  
+[IPA Chart](https://ipachart.com/)
