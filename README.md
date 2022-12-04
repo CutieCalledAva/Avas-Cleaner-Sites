@@ -1,9 +1,11 @@
 # Avas-Cleaner-Sites
 
-Blocks Various Annoying/Redundant/Ugly Elements on Websites, making them cleaner.
-I'll add more rules as I come across annoyances, so don't expect any kind of consistent updates.
+This is a filter which blocks various annoying, redundant, ugly or even duplicate elements on websites, making them cleaner. It also blocks a few ad services that clutter up websites.
 
-Websites Altered So Far:
+You can easily add this filter by downloading the filter txt file and importing it to your custom filters in your adblocker
+
+
+### This filter currently effects all sites listed below:
 
 - [Reddit](https://www.reddit.com/)
 - [Github](https://www.github.com/)
