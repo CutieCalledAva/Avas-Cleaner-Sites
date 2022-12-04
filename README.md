@@ -1,4 +1,4 @@
-# Avas-Cleaner-Sites
+# Ava's Cleaner Sites
 
 This is a filter which blocks various annoying, redundant, ugly or even duplicate elements on websites, making them cleaner. It also blocks a few ad services that clutter up websites.
 
