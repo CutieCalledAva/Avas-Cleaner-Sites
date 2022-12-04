@@ -1,0 +1,152 @@
+!! Ad Websites
+adthrive.com
+
+
+!! Site Specific Elements
+! Reddit
+www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2YJDRz5rCYQfu8YdgB_neb
+www.reddit.com##._1oRQu-aolgpPPJDblUGTw5
+www.reddit.com##.RffBqG1xCvuy1r49wYhLr._31AVRNJbVMh2DUFRrpCQcD > div._2vEf-C2keJaBMY9qk_BxVn > ._3zZKTUxTxtgzF9ilawHBK-
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV > ._3RPJ8hHnfFohktLZca18J6
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(5) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(4) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##._2jJNpBqXMbbyOiGCElTYxZ
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(3) > .f8nXLisWxOYzMMl1uIAP3
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(3)
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(1) > .f8nXLisWxOYzMMl1uIAP3
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(1)
+www.reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT._326PJFFRv8chYfOlaEYmGt
+www.reddit.com###focus-CreatePost
+www.reddit.com###focus-NotificationsInbox
+www.reddit.com###focus-Premium
+www.reddit.com###focus-Avatar
+www.reddit.com###focus-Coins
+www.reddit.com###focus-HappeningNow
+www.reddit.com##div._2XRPX11qL4-HxWPuHAzOW5._1Ok0AiXwAeYl2SsUBaxgPC:nth-of-type(5)
+www.reddit.com###focus-All
+www.reddit.com###focus-Popular
+www.reddit.com###focus-Home
+www.reddit.com###focus-Talk
+www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(2)
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(3) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##._31AVRNJbVMh2DUFRrpCQcD > div._2vEf-C2keJaBMY9qk_BxVn > [href="https://www.reddit.com/r/unixporn/comments/rs0wm4/awesome_forest/"] > ._3NeWg805wFgqPuE_-LZKN4 > ._3WqRAmto46uhALFWnn8-Pa
+www.reddit.com##.K4Eem3pMbRbAYioOfqN5E
+www.reddit.com##._3obgdFz00GvpqpuX8QCsNK
+www.reddit.com###focus-Settings
+www.reddit.com###focus-Inbox
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(4) > .f8nXLisWxOYzMMl1uIAP3
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(4)
+
+! Pastebin
+pastebin.com##.top-footer
+pastebin.com##.footer__container
+pastebin.com##.footer > .container
+pastebin.com##.footer
+pastebin.com##.h_800.share
+
+! Twitter
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(4)
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(5)
+twitter.com##.r-qo02w8.r-l5o3uw.css-1dbjc4n
+||accounts.google.com/gsi/iframe/$subdocument
+||accounts.google.com/gsi/iframe/select$subdocument
+
+! Instagram
+www.instagram.com##.x47corl.xeuugli.x2lwn1j.xl56j7k.x78zum5.x9f619.x1cy8zhl
+www.instagram.com##.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5
+www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
+
+! Gitlab
+gitlab.com##li.gl-mr-3:nth-of-type(3)
+gitlab.com##.gl-display-flex\!.js-whats-new-trigger.gl-align-items-center.gl-justify-content-space-between
+
+! Brave Search
+search.brave.com##.widget--outline.svelte-jz3mkf.widget
+search.brave.com###secondary-tabs
+search.brave.com###filters-bar > div > .svelte-4z9ns0
+search.brave.com##div.block:nth-of-type(2)
+search.brave.com##article.large.svelte-jz3mkf.widget:nth-of-type(1) > div > section.svelte-1fbqe8x:nth-of-type(1)
+search.brave.com##section.svelte-1fbqe8x:nth-of-type(3)
+
+! Github
+github.com##div.mt-2:nth-of-type(4)
+github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .position-relative.f5 > .position-relative.f5.details-overlay.details-reset > .btn.btn-sm
+github.com##.d-block.color-border-muted.border.rounded-2.text-center.p-4.content
+github.com##a.border-white-fade.border-md-top-0.border-top.mr-md-3.mr-0.py-md-3.py-2.mb-md-n3.mt-md-n3.Header-link.js-selected-navigation-item:nth-of-type(5)
+github.com###feed-next
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
+github.com##div.mt-2:nth-of-type(6)
+
+! Wikipedia
+en.wikipedia.org##[href="/wiki/Talk:C-Media"]
+||en.wikipedia.org/static/images/footer/wikimedia-button*.png$image
+en.wikipedia.org###footer > .noprint
+en.wikipedia.org##[href="/wiki/Special:MyTalk"] > span
+||en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles.legacy/images/user-avatar.svg?b7f58$image
+en.wikipedia.org###pt-anonuserpage
+||en.wikipedia.org/w/skins/Vector/resources/common/images/search.svg?ac00d$image
+en.wikipedia.org###searchButton
+
+! Youtube
+www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###voice-search-button
+www.youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
+www.youtube.com###country-code
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##yt-related-chip-cloud-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##.ytd-video-owner-renderer.style-scope > yt-button-shape
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###channel-handle
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
+www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.container.yt-simple-endpoint
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com###chips
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com###creator-heart-button
+www.youtube.com###header > .ytd-multi-page-menu-renderer.style-scope
+
+! IPAChart
+www.ipachart.com##center
+
+! The Gimp Tutorials
+thegimptutorials.com##.related_posts_by_taxonomy.widget
+thegimptutorials.com##.col-lg-4.col-sm-12.widget-area
+thegimptutorials.com##.adthrive-sticky.adthrive-ad-cls.adthrive-footer-1.adthrive-footer.adthrive-ad
+thegimptutorials.com##.adthrive-footer-message.adthrive-comscore
+thegimptutorials.com##.menu-social-container
+thegimptutorials.com###menu-item-250 > .nav-link
+thegimptutorials.com##.page-header
+thegimptutorials.com###rpwe_widget-2
+thegimptutorials.com###menu-item-269 > .nav-link
+thegimptutorials.com###cls-video-container-y3H2SpPn
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-3.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-2.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-1.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-4.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-5.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-6.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-7.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-8.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-9.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-10.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-11.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-12.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-13.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-14.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-15.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-16.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-content-17.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-ad-cls.adthrive-below-post-1.adthrive-below-post.adthrive-ad
+thegimptutorials.com##.author-box
+thegimptutorials.com##.author-box-heading
+thegimptutorials.com##.rank-math-breadcrumb > p
+thegimptutorials.com##.entry-meta
+thegimptutorials.com##div.wp-block-image:nth-of-type(3)
+thegimptutorials.com##p:nth-of-type(34)
+thegimptutorials.com##.widget_media_gallery.widget
+thegimptutorials.com###rpwe_widget-6
+thegimptutorials.com##.three-columns.rpwe-block > .rpwe-ul > li.rpwe-clearfix.rpwe-li
+thegimptutorials.com###rpwe_widget-5 > .widget-title
+thegimptutorials.com###rpwe_widget-4 > .widget-title
+
