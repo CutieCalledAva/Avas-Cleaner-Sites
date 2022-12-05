@@ -149,4 +149,27 @@ thegimptutorials.com###rpwe_widget-6
 thegimptutorials.com##.three-columns.rpwe-block > .rpwe-ul > li.rpwe-clearfix.rpwe-li
 thegimptutorials.com###rpwe_widget-5 > .widget-title
 thegimptutorials.com###rpwe_widget-4 > .widget-title
+thegimptutorials.com##.adthrive-content-1.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-2.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-3.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-4.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-5.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-6.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-7.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-8.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-9.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-10.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-11.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-12.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-13.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-14.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-content-15.adthrive-content.adthrive-ad
+thegimptutorials.com##.adthrive-below-post-1.adthrive-below-post.adthrive-ad
+thegimptutorials.com##.adthrive-content-16.adthrive-content.adthrive-ad
 
+! Odysee
+odysee.com##ul.navigation-links--absolute.navigation-links:nth-of-type(4)
+odysee.com##ul.navigation-links--micro.navigation-links:nth-of-type(2) > li:nth-of-type(3) > .navigation-link.button--no-style.button > .button__content
+odysee.com##.portals-wrapper
+odysee.com##.claim-grid__title--secondary.button--link.button > .button__content
+odysee.com##.home__meme > .button--link.button
