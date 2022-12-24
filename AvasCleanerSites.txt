@@ -1,9 +1,8 @@
 !! Ad Websites
 adthrive.com
 
-
 !! Site Specific Elements
-! Reddit
+! https://www.reddit.com
 www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2YJDRz5rCYQfu8YdgB_neb
 www.reddit.com##._1oRQu-aolgpPPJDblUGTw5
 www.reddit.com##.RffBqG1xCvuy1r49wYhLr._31AVRNJbVMh2DUFRrpCQcD > div._2vEf-C2keJaBMY9qk_BxVn > ._3zZKTUxTxtgzF9ilawHBK-
@@ -38,30 +37,30 @@ www.reddit.com###focus-Inbox
 www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(4) > .f8nXLisWxOYzMMl1uIAP3
 www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(4)
 
-! Pastebin
+! https://pastebin.com
 pastebin.com##.top-footer
 pastebin.com##.footer__container
 pastebin.com##.footer > .container
 pastebin.com##.footer
 pastebin.com##.h_800.share
 
-! Twitter
+! https://twitter.com
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(4)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(5)
 twitter.com##.r-qo02w8.r-l5o3uw.css-1dbjc4n
 ||accounts.google.com/gsi/iframe/$subdocument
 ||accounts.google.com/gsi/iframe/select$subdocument
 
-! Instagram
+! https://instagram.com
 www.instagram.com##.x47corl.xeuugli.x2lwn1j.xl56j7k.x78zum5.x9f619.x1cy8zhl
 www.instagram.com##.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5
 www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
 
-! Gitlab
+! https://gitlab.com
 gitlab.com##li.gl-mr-3:nth-of-type(3)
 gitlab.com##.gl-display-flex\!.js-whats-new-trigger.gl-align-items-center.gl-justify-content-space-between
 
-! Brave Search
+! https://search.brave.com
 search.brave.com##.widget--outline.svelte-jz3mkf.widget
 search.brave.com###secondary-tabs
 search.brave.com###filters-bar > div > .svelte-4z9ns0
@@ -69,7 +68,7 @@ search.brave.com##div.block:nth-of-type(2)
 search.brave.com##article.large.svelte-jz3mkf.widget:nth-of-type(1) > div > section.svelte-1fbqe8x:nth-of-type(1)
 search.brave.com##section.svelte-1fbqe8x:nth-of-type(3)
 
-! Github
+! https://github.com
 github.com##div.mt-2:nth-of-type(4)
 github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .position-relative.f5 > .position-relative.f5.details-overlay.details-reset > .btn.btn-sm
 github.com##.d-block.color-border-muted.border.rounded-2.text-center.p-4.content
@@ -78,7 +77,7 @@ github.com###feed-next
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column
 github.com##div.mt-2:nth-of-type(6)
 
-! Wikipedia
+! https://en.wikipedia.org
 en.wikipedia.org##[href="/wiki/Talk:C-Media"]
 ||en.wikipedia.org/static/images/footer/wikimedia-button*.png$image
 en.wikipedia.org###footer > .noprint
@@ -88,7 +87,7 @@ en.wikipedia.org###pt-anonuserpage
 ||en.wikipedia.org/w/skins/Vector/resources/common/images/search.svg?ac00d$image
 en.wikipedia.org###searchButton
 
-! Youtube
+! https://www.youtube.com
 www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
 www.youtube.com###voice-search-button
 www.youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
@@ -105,11 +104,17 @@ www.youtube.com###chips
 www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
 www.youtube.com###creator-heart-button
 www.youtube.com###header > .ytd-multi-page-menu-renderer.style-scope
+www.youtube.com##.ytp-button.ytp-prev-button
+www.youtube.com##.ytp-button.ytp-next-button
+www.youtube.com###share-button
+www.youtube.com###share-targets > .yt-third-party-network-section-renderer.style-scope
+www.youtube.com##.ytd-promoted-sparkles-web-renderer.style-scope > .ytd-menu-renderer.style-scope.dropdown-trigger
+www.youtube.com##yt-notification-action-renderer
 
-! IPAChart
+! https://www.ipachart.com
 www.ipachart.com##center
 
-! The Gimp Tutorials
+! https://thegimptutorials.com
 thegimptutorials.com##.related_posts_by_taxonomy.widget
 thegimptutorials.com##.col-lg-4.col-sm-12.widget-area
 thegimptutorials.com##.adthrive-sticky.adthrive-ad-cls.adthrive-footer-1.adthrive-footer.adthrive-ad
@@ -167,9 +172,203 @@ thegimptutorials.com##.adthrive-content-15.adthrive-content.adthrive-ad
 thegimptutorials.com##.adthrive-below-post-1.adthrive-below-post.adthrive-ad
 thegimptutorials.com##.adthrive-content-16.adthrive-content.adthrive-ad
 
-! Odysee
+! https://odysee.com
 odysee.com##ul.navigation-links--absolute.navigation-links:nth-of-type(4)
 odysee.com##ul.navigation-links--micro.navigation-links:nth-of-type(2) > li:nth-of-type(3) > .navigation-link.button--no-style.button > .button__content
 odysee.com##.portals-wrapper
 odysee.com##.claim-grid__title--secondary.button--link.button > .button__content
 odysee.com##.home__meme > .button--link.button
+
+! https://inhaltsangaben24.com
+inhaltsangaben24.com###ezmobfooter > center
+
+! https://www.bustle.com
+www.bustle.com##.jIS.rhF.fX2
+
+! https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-size-button
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-simple.badge
+www.youtube.com##.ytp-autonav-toggle-button-container
+www.youtube.com##button.ytp-button:nth-of-type(6)
+www.youtube.com##.ytp-share-icon
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(2) > .ytd-menu-service-item-renderer.style-scope
+
+! https://www.reddit.com
+www.reddit.com##._3NeWg805wFgqPuE_-LZKN4
+
+! https://www.youtube.com
+www.youtube.com###dismissed > .ytd-feed-nudge-renderer.style-scope
+www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+
+! https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-1dbjc4n:nth-of-type(4)
+
+! https://parade.com
+parade.com##.m-in-content-ad.is-exco-player.m-in-content-ad-row
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row > .not-size-d.not-size-b.not-size-a.m-in-content-ad
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(4)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(8)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(13)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(17)
+parade.com##.is-sidebar.h-isolated-styles.l-grid--rail.m-aside-rail
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(26)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(31)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(35)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(39)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(44)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(48)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(52)
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(57)
+
+! https://parade.com
+parade.com##.l-inline.mm-video--landscape.m-video > .m-custom-element
+parade.com##.l-inline.mm-video--landscape.m-video
+parade.com##aside.not-size-d.not-size-b.not-size-a.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(22)
+parade.com##.mm-component-stack--is-stacked.m-component-stack.nocontent.m-outbrain
+parade.com##.mm-component-stack--has-footer.mm-component-stack--has-header.mm-component-stack--is-stacked.m-component-stack.m-tile-hub > .m-component-stack--header.m-component-header > .mm-component-header--size-extra-small.m-component-header--container
+parade.com##.mm-component-stack--has-footer.mm-component-stack--has-header.mm-component-stack--is-stacked.m-component-stack.m-tile-hub > .m-card-group--container
+
+! https://movieweb.com
+movieweb.com##main.w-content > .list.infinite-scroll.w-article > .adsninja-rail-container.sidebar
+movieweb.com##div.w-content > .list.infinite-scroll.w-article > .article_heading > .heading_breadcrumb > nav > ul
+movieweb.com##main.w-content > .list.infinite-scroll.w-article > .article-footer
+movieweb.com##.i-social.icon.menu-follow-button
+movieweb.com##main.w-content > .list.infinite-scroll.w-article > .article_heading > .heading_breadcrumb
+
+! https://parade.com
+parade.com##.m-flex-nav--engagement-link
+parade.com##.m-breadcrumbs--container
+parade.com##.m-breadcrumbs.m-sub-navigation--items
+parade.com##.m-sub-navigation--container
+
+! https://www.menshealth.com
+www.menshealth.com##.breadcrumbs-section.content-breadcrumbs
+www.menshealth.com##.top-pathing-inner
+www.menshealth.com##.bar-content-disclaimer.affiliate-disclaimer
+www.menshealth.com##.top-nav-subscribe
+www.menshealth.com##.epl65fo4.css-163fxbc
+
+! https://www.imdb.com
+www.imdb.com###sidebar
+www.imdb.com##blockquote:nth-of-type(1)
+www.imdb.com##.list-description
+www.imdb.com##.bJSIse.sc-fdbafff8-0
+www.imdb.com##div.page-grid.ibBYsy.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid > .nas-slot
+www.imdb.com##div.page-grid.ibBYsy.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(2)
+www.imdb.com##.KDBqk.sc-952be653-0.ipc-page-section--baseAlt.ipc-page-section
+www.imdb.com##div.page-grid.ibBYsy.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(6) > .ipc-page-grid__item--span-3.ipc-page-grid__item
+www.imdb.com##div.page-grid.ibBYsy.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3) > .ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section
+www.imdb.com##.footer__sign-in > .ipc-page-content-container--center.ipc-page-content-container
+www.imdb.com##.footer__socials
+
+! https://movieweb.com
+movieweb.com##.body-img-caption
+movieweb.com##.item-img-caption
+movieweb.com##div.w-content > .list.infinite-scroll.w-article > .adsninja-rail-container.sidebar
+movieweb.com##.article-footer
+
+! https://www.ranker.com
+www.ranker.com##.rerankButton_button__LGtXb.button_rounded__gY4a9.button_secondary__1ZG1U.button_medium__K7ai0.button_main__b1K6d.copewu.sc-81a1fbb4-0
+www.ranker.com##.RankBox_isGrid__uKUmm.RankBox_main__QVS8M
+www.ranker.com##div.relatedInline_container__Ux4lS:nth-of-type(2)
+www.ranker.com##div.relatedInline_container__Ux4lS
+www.ranker.com##.BottomRelatedLists_main__jlR83 > section
+www.ranker.com##.bottomCollectionsTreatment_innerContainer__5rW2i.container_innerContainer__ulE_r > section
+www.ranker.com##.filedUnder_main__BHNOk.container_container__53t32 > .container_innerContainer__ulE_r
+www.ranker.com##.bottomCollectionsTreatment_innerContainer__5rW2i.container_innerContainer__ulE_r
+www.ranker.com##.footer_main__jJF1V
+www.ranker.com##.buzzingInfo_main__dT7bE.container_container__53t32 > .container_innerContainer__ulE_r
+www.ranker.com##.collectionsCarousel_main__ludP8
+www.ranker.com##.ticker_main__teCLL
+
+! https://www.youtube.com
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(3) > .ytd-menu-service-item-renderer.style-scope
+
+! https://www.menshealth.com
+www.menshealth.com##.emkv89h0.css-1v5xah6
+
+! https://www.ranker.com
+www.ranker.com##.criteria_main__LjkEC
+www.ranker.com##.rightRail_hasFilterBar__tnFlt.rightRail_outerContainer__7pymG
+
+! https://www.menshealth.com
+www.menshealth.com##.playerLoaded.lazyloaded.media-loaded.media-loader.extend-preroll-timeout.glimmerPlayer
+www.menshealth.com##.video-header
+www.menshealth.com##.transporter
+www.menshealth.com##.end-of-content-playlist
+www.menshealth.com##.social-button-link
+www.menshealth.com##.authors
+www.menshealth.com##.listicle-slide-credit.image-credit
+www.menshealth.com##.site-content > .leaderboard-ad
+www.menshealth.com##.breaker-ad.gpt-tag.ad-gpt-breaker
+www.menshealth.com##.lazyloaded.ls-is-cached.footer-network-logo
+
+! https://parade.com
+parade.com##p:nth-of-type(46)
+parade.com##.mm-component-stack--has-footer.mm-component-stack--has-header.mm-component-stack--is-stacked.m-component-stack.m-tile-hub
+parade.com###ad-3b793de65287461f9796d89ccf5cec08
+parade.com##.not-filled.is-empty.not-size-d.not-size-b.not-size-a.m-fixedbottom-ad--slot
+parade.com##.m-fixedbottom-ad--container
+
+! https://search.brave.com
+search.brave.com##.svelte-8js1iq.feedback
+search.brave.com##.svelte-1emb2o.context-menu__btn
+search.brave.com##[href^="/goggles"]
+search.brave.com##.flex-wrap.flex-hcenter
+search.brave.com##.svelte-5ygtku.panel
+search.brave.com##.flex-row.text-sm.text-gray
+
+! https://www.goodhousekeeping.com
+www.goodhousekeeping.com##.bar-content-disclaimer.affiliate-disclaimer
+www.goodhousekeeping.com##.top-pathing
+www.goodhousekeeping.com###breadcrumbs
+www.goodhousekeeping.com##.top-nav-subscribe
+www.goodhousekeeping.com##.listicle-slide-credit.image-credit
+www.goodhousekeeping.com##[href="https://www.goodhousekeeping.com/holidays/halloween-ideas/g23570139/halloween-movies-netflix/"]
+www.goodhousekeeping.com##p:nth-of-type(3)
+www.goodhousekeeping.com##.listicle-rail.content-rail
+www.goodhousekeeping.com##.content-lede-image-credit.image-credit
+www.goodhousekeeping.com##.authors
+www.goodhousekeeping.com##.end-of-content-playlist
+www.goodhousekeeping.com##.transporter
+www.goodhousekeeping.com##.footer-social-menu-item.social-button-twitter.social-button
+www.goodhousekeeping.com##.gdpr-requires-consent.footer-social-menu-item.social-button-facebook.social-button
+www.goodhousekeeping.com##.footer-social-menu-item.social-button-youtube.social-button
+www.goodhousekeeping.com##.social-button-link
+||assets.hearstapps.com/sites/goodhousekeeping/assets/images/logos/network-logo.1c84f6f.png$image
+
+! https://www.menshealth.com
+www.menshealth.com##.lazyloaded.footer-network-logo
+
+! https://www.goodhousekeeping.com
+www.goodhousekeeping.com##.emkv89h0.css-1v5xah6
+www.goodhousekeeping.com##.lazyloaded.e1lki9i00.css-15si9rg.lqip
+www.goodhousekeeping.com##div.listicle-slide-list-ad.breaker-ad
+www.goodhousekeeping.com###article-marketplace-horizontal
+
+! https://www.theatlantic.com
+www.theatlantic.com##.ArticleHero_rubric__TTaCW
+www.theatlantic.com##.GiftPromo2022_root__zAzwm
+www.theatlantic.com##li.NavAccountLinks_navListItem__LvIWj:nth-of-type(2)
+www.theatlantic.com###main-content > div
+www.theatlantic.com##.ArticleBio_content__WafXd
+www.theatlantic.com###article-end
+www.theatlantic.com##.Footer_list__2lgqK.Footer_topContentDesktop__aQiNr > li:nth-of-type(5)
+www.theatlantic.com##.Footer_list__2lgqK.Footer_topContentDesktop__aQiNr > li:nth-of-type(4)
+www.theatlantic.com##.Footer_list__2lgqK.Footer_topContentDesktop__aQiNr > li:nth-of-type(3)
+www.theatlantic.com##.ArticleInlineImageFigure_alignWell__H5__7.ArticleInlineImageFigure_caption__HZqXW
+
+! https://www.inverse.com
+www.inverse.com##.UdU.hzA.pCo.zzk.adWrapper
+
+! https://www.menshealth.com
+www.menshealth.com##div.listicle-slide-list-ad.breaker-ad
+www.menshealth.com##.listicle-rail.content-rail
+www.menshealth.com##.content-lede-image-credit.image-credit
+
+! https://www.imdb.com
+www.imdb.com##.navbar__coachmark--fadeIn.navbar__coachmark.gyyCwa.Coachmark-sc-tfrfvb-0
+
+! https://movieweb.com
+movieweb.com##.related-single
+movieweb.com##div.w-content
