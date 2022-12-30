@@ -1,7 +1,3 @@
-!! Ad Websites
-adthrive.com
-
-!! Site Specific Elements
 ! https://www.reddit.com
 www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2YJDRz5rCYQfu8YdgB_neb
 www.reddit.com##._1oRQu-aolgpPPJDblUGTw5
