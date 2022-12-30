@@ -23,7 +23,7 @@ If you have any website request that I should make cleaner, make a report in the
 - [inhaltsangaben24](https://inhaltsangaben24.com)
 - [Bustle](https://www.bustle.com)
 - [Parade](https://parade.com)
-- [Movieweb](https://movieweb.com)
+- [MovieWeb](https://movieweb.com)
 - [Men's Health](https://www.menshealth.com)
 - [IMDb](https://www.imdb.com)
 - [Ranker](https://www.ranker.com)
